@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
-* Студент: [Ярослав Гурин](https://up.htmlacademy.ru/ecmascript/17/user/1941731).
-* Наставник: `Неизвестно`.
+- Студент: [Ярослав Гурин](https://up.htmlacademy.ru/ecmascript/17/user/1941731).
+- Наставник: [Сергей Рожков](https://htmlacademy.ru/profile/id1069033).
 
 ---
 
